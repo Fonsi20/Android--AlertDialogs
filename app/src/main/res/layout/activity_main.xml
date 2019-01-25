@@ -12,7 +12,14 @@
         android:id="@+id/btnBuilderDialog"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="DIALOG BUILDER"
+        android:text="DIALOG BUILDER PREDEFINIDO"
       />
+
+    <Button
+        android:id="@+id/btnBuilderDialogBOTON"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DIALOG BUILDER CON BOTÓN"
+        />
 
 </LinearLayout>
